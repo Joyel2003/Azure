@@ -159,16 +159,16 @@ header {
     object-fit: cover;
     padding-bottom: 56px;
 }
-/* .azure_content {
-    opacity: 0; /* Initially invisible */
-    transform: translateY(50px); /* Positioned below its original location */
-    transition: opacity 0.8s ease, transform 0.8s ease; /* Smooth upward animation */
+ /* .azure_content {
+    opacity: 0; 
+    transform: translateY(50px); 
+    transition: opacity 0.8s ease, transform 0.8s ease; 
 }
 
 .azure_content.visible {
-    opacity: 1; /* Fully visible */
-    transform: translateY(0); /* Moves to its original position */
-} */
+    opacity: 1; 
+    transform: translateY(0); 
+}   */
 
 
 .second_content {
@@ -571,7 +571,7 @@ button:nth-child(1) {
     font-size: 16px;
     font-weight: 400;
     padding: 20px 10px;
-    padding-right: ;
+    /* padding-right: ; */
     letter-spacing: -0.48px;
     line-height: 24px;
 }
